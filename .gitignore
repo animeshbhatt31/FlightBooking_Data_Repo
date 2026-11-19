@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+test-results/
+playwright-report/
+reports/
+
+# IDE
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Authentication data
+auth.json
+state.json
+report.html

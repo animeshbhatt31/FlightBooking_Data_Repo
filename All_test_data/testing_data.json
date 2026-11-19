@@ -1,0 +1,46 @@
+{
+  "credentials":
+  {
+   "username": "user@premiumbank.com",
+    "password": "Bank@123"
+
+  },
+  "round_trip" :
+  {
+    "from_city": "London",
+    "to_city": "Delhi",
+    "passengers_count": "2",
+    "flight_class": "First",
+    "departure_days_from_today": 7,
+    "return_days_from_today": 37
+
+
+  },
+  "choose_flight":
+  {
+    "checkbox":
+       {"non_stop_only": true}
+
+  },
+  "passenger_details" :
+  {
+    "passenger_name": "Amimesh QA",
+    "passenger_email": "test123@gmail.com",
+    "passenger_phone": "1234567890"
+  },
+  "payment_details":
+  {
+    "card_number": "4111111111",
+    "expiry_date": "01/35",
+    "cvv": "123"
+  },
+  "one_way":
+  {
+    "from_city": "London",
+        "to_city": "Delhi",
+        "passengers_count": "2",
+        "flight_class": "First",
+        "departure_days_from_today": 7
+  }
+
+}
